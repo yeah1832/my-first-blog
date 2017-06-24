@@ -25,7 +25,7 @@ SECRET_KEY = '4hr_&8lb!fg0hvneb8!v_r7_li_9zce+vt=^bb(a^l#=s%&=u8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['yeah-tutorial.tk', '.potal.azure.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'yeah-tutorial.tk']
 
 
 
