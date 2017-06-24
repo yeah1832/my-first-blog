@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/yeah1832/my-first-blog",
+  "PROJECT_NAME":"mysite",
+  "REMOTE_HOST":"yeah-tutorial.tk",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
